@@ -21,3 +21,7 @@ Requirements
 Python 3.x
 
 Tkinter (preinstalled with most Python versions)
+
+License
+
+This project is released under the MIT License unless otherwise specified.
